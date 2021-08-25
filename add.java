@@ -1,6 +1,8 @@
 public class add
 {
     public static void main(String[] args) {
-        System.out.println("welcoomm..");
+        int a=3;
+        int b=4;
+        System.out.println("add="+(a+b));
     }
 }

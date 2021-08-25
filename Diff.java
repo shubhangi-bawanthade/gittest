@@ -4,6 +4,6 @@ public class Diff
     {
         int a=3;
         int b=4;
-        System.out.println("sub = "+(a-b));
+        System.out.println("diff = "+(a-b));
     }
 }
